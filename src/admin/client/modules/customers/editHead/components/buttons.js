@@ -44,7 +44,7 @@ export default class Buttons extends React.Component {
 					onClick={this.openDelete}
 				>
 					<FontIcon color="#fff" className="material-icons">
-						delete
+						DELETE
 					</FontIcon>
 				</IconButton>
 				<DeleteConfirmation
